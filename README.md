@@ -1,4 +1,3 @@
-Here’s a polished and **attractive version of your `README.md`** for your Todo-App that’s visually organized, highlights your emojis/UI, and showcases your Spec-Driven Development workflow:
 
 ---
 
